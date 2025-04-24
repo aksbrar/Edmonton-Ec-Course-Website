@@ -2,6 +2,16 @@
   --primary-color:#ffb400;
   --text: #40a4ff;
   --bg: #f2f2f2;
+
+  /* sizes */
+  --x : 4px;
+  --x2 : 8px;
+  --x3 : 16px;
+  --x4 : 32px;
+  --x5 : 64px;
+  --x6 : 128px;
+
+  
 }
 
 *{
@@ -9,3 +19,4 @@
   margin: 0;
   padding: 0;
 }
+
