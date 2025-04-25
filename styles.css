@@ -3,21 +3,6 @@
   --text: #40a4ff;
   --bg: #f2f2f2;
 
-  /* sizes */
-  --x : 4px;
-  --x2 : 8px;
-  --x3 : 16px;
-  --x4 : 32px;
-  --x5 : 64px;
-  --x6 : 128px;
-
-  /* sizes in em */
-  --e : 4px;
-  --e2 : 8px;
-  --e3 : 16px;
-  --e4 : 32px;
-  --e5 : 64px;
-  --e6 : 128px;
 }
 
 *{
