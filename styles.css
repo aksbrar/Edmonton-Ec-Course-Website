@@ -69,3 +69,12 @@
   border-radius: 10px;
   margin-bottom: 18px;
 }
+
+.content-card{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.content-card-info{
+  width: 100%;
+}
