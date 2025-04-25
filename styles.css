@@ -27,3 +27,22 @@
 }
 
 /* Styling main content from here */
+.content{
+  display: grid;
+  grid-template-columns: 15% 1fr;
+}
+.nav-conainer{
+  background-color: #eff4f5;
+}
+.nav-conainer li {
+  background-color: var(--primary-color);
+  padding: .5em .3em;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  color: white;
+  font-weight: 900;
+}
+.nav-conainer li:first-of-type{
+  border-top: 1px solid black;
+}
