@@ -9,3 +9,21 @@
   padding: 0;
 }
 
+/* styles for header and header logo */
+.header{
+  display: flex;
+  justify-content: end;
+  background-color: var(--bg);
+  padding: .3em 1em;
+  gap: 10px;
+}
+.header-logo{
+  background-color: var(--primary-color);
+  padding: .3em .3em;
+}
+.header-image{
+  width: 290px;
+  height: 76px;
+}
+
+/* Styling main content from here */
