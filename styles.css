@@ -31,6 +31,8 @@
   display: grid;
   grid-template-columns: 15% 1fr;
 }
+
+/* Navigation */
 .nav-conainer{
   background-color: #eff4f5;
 }
@@ -45,4 +47,25 @@
 }
 .nav-conainer li:first-of-type{
   border-top: 1px solid black;
+}
+
+/* Main content */
+.main-content{
+  padding: 1em;
+}
+
+.first-one,
+.content-card-info{
+  background-color: var(--bg);
+  border-radius: 10px;
+  margin-bottom: 15px;
+  padding: 1em;
+}
+.first-one-top{
+  display: flex;
+  justify-content: space-between;
+}
+.first-one-image{
+  border-radius: 10px;
+  margin-bottom: 18px;
 }
