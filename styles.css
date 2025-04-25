@@ -105,3 +105,25 @@
   padding: .8em;
   text-align: center;
 }
+
+
+/* respomsiveness */
+@media screen and (max-width:780px) {
+  .nav-conainer{
+    display: none;
+  }
+  .content{
+    display: block;
+  }
+}
+
+@media screen and (max-width:480px) {
+  .first-one-image{
+    display: none;
+  }
+}
+@media screen and (max-width: 420px) {
+  .content-card > img{
+    display: none;
+  }
+}
