@@ -53,6 +53,9 @@
   color: white;
   font-weight: 900;
 }
+.nav-conainer .selected{
+  background-color: #cb9912;
+}
 
 /* Main content */
 .main-content{
